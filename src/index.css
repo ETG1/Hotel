@@ -34,3 +34,42 @@
     @apply bg-white text-[#0a0a0a];
   }
 }
+
+/* Restaurant Background Images */
+.bg-restaurant {
+  background-image: url('./assets/img/restuarant/bg-restaurant.jpg');
+}
+.bg-restaurant-1 {
+  background-image: url('./assets/img/restuarant/bg-restaurant-1.jpg');
+}
+.bg-restaurant-2 {
+  background-image: url('./assets/img/restuarant/bg-restaurant-2.jpg');
+}
+.bg-restaurant-3 {
+  background-image: url('./assets/img/restuarant/bg-restaurant-3.jpg');
+}
+.bg-restaurant-4 {
+  background-image: url('./assets/img/restuarant/bg-restaurant-4.jpg');
+}
+
+/* Spa Background Images */
+.bg-spa {
+  background-image: url('./assets/img/spa/bg-spa.jpg');
+}
+.bg-spa-1 {
+  background-image: url('./assets/img/spa/bg-spa-1.jpg');
+}
+.bg-spa-2 {
+  background-image: url('./assets/img/spa/bg-spa-2.jpg');
+}
+.bg-spa-3 {
+  background-image: url('./assets/img/spa/bg-spa-3.jpg');
+}
+.bg-spa-4 {
+  background-image: url('./assets/img/spa/bg-spa-4.jpg');
+}
+
+/* Contact Background Image */
+.bg-contact {
+  background-image: url('./assets/img/contact/contact.jpg');
+}
